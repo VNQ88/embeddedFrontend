@@ -234,7 +234,7 @@ const Screen31: React.FC = () => {
 
   return (
     <div className="flex justify-center items-center h-auto p-8 bg-gray-100">
-      <div className="lg:w-2/3 sm:w-[95%] bg-white flex p-8 rounded-lg shadow-lg">
+      <div className="lg:w-3/4 sm:w-[95%] bg-white flex p-8 rounded-lg shadow-lg">
         <div className={`w-1/4`}>
           <h1 className="text-2xl font-bold mb-6 text-gray-700">
             ESP32 Web Server
